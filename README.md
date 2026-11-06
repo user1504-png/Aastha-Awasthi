@@ -51,16 +51,11 @@ my portfolio
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=user1504-png&show_icons=true&theme=default&title_color=0284C7&icon_color=0EA5E9)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=user1504-png&theme=default&ring=0EA5E9&fire=0284C7&currStreakLabel=0284C7)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=user1504-png&layout=compact&theme=default&title_color=0284C7)
+[![GitHub Profile](https://img.shields.io/badge/Explore_My_GitHub-0284C7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/user1504-png)
 
 </div>
-
----
-
-<div align="center">
-
 ### 💙 Thanks for visiting my little corner of GitHub!
 
 *Always learning. Always building. Always growing.*

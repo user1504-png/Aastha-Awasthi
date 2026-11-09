@@ -1,6 +1,6 @@
 # Aastha-Awasthi
 my portfolio
-# 💙 Hey there, I'm Aastha!
+#  Hey there, I'm Aastha!
 
 <div align="center">
 
@@ -14,15 +14,15 @@ my portfolio
 
 ---
 
-## 🌷 About Me
+# About Me
 
-- 🎓 B.Tech Computer Science student at SSIPMT, Raipur.
-- 💻 Interested in programming, problem solving and software development.
-- 🌱 Currently focusing on **C++ and Data Structures & Algorithms**.
-- 🤖 Exploring Artificial Intelligence and new technologies.
-- ✨ Believe in learning by building and improving every day.
+-  B.Tech Computer Science student at SSIPMT, Raipur.
+-  Interested in programming, problem solving and software development.
+-  Currently focusing on **C++ and Data Structures & Algorithms**.
+-  Exploring Artificial Intelligence and new technologies.
+-  Believe in learning by building and improving every day.
 
-## 🛠️ Tech Stack
+# Tech Stack
 
 **Languages**
 
@@ -35,19 +35,19 @@ my portfolio
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 📚 Currently Learning
+# Currently Learning
 
 - C++ Programming
 - Data Structures & Algorithms
 - Problem Solving
 - Exploring AI and software development
 
-## 🚀 My Repositories
+# My Repositories
 
-- 💻 [CPP-DSA-Practice](https://github.com/user1504-png/CPP-DSA-Practice)
-- 📘 [DSA Questions](https://github.com/user1504-png/dsa-question)
+-  [CPP-DSA-Practice](https://github.com/user1504-png/CPP-DSA-Practice)
+-  [DSA Questions](https://github.com/user1504-png/dsa-question)
 
-## 📈 My GitHub Journey
+# My GitHub Journey
 
 <div align="center">
 
@@ -56,7 +56,7 @@ my portfolio
 [![GitHub Profile](https://img.shields.io/badge/Explore_My_GitHub-0284C7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/user1504-png)
 
 </div>
-### 💙 Thanks for visiting my little corner of GitHub!
+### Thanks for visiting my little corner of GitHub!
 
 *Always learning. Always building. Always growing.*
 
